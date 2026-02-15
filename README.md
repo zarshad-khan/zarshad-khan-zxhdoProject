@@ -25,10 +25,10 @@ JavaScript – For interactivity (e.g., menu toggle, form validation)
 🌐 Project Structure
 /project-root
 │
-├── css/                 # Stylesheets
-├── images/              # Images used in the website
-├── javascript/          # JavaScript files
-├── portfolio.html       # Portfolio page
-├── quote.html           # Quote or contact page
-├── space.html           # Additional page (e.g., home or services)
-└── README.md            # Project documentation
+├── css/                
+├── images/              
+├── javascript/          
+├── portfolio.html       
+├── quote.html           
+├── space.html          
+└── README.md           
